@@ -11,7 +11,7 @@
 
 <details>
     <summary>Play</summary>
-    <iframe src="https://wit-gamespace-threejs.netlify.app/" title="tanks"></iframe>
+    <iframe src="https://witgs-tanks.netlify.app/" title="tanks"></iframe>
 </details>
 
 # boo_ling
@@ -36,5 +36,5 @@
 [witgs-booling-link]: https://witgs-booling.netlify.app/
 [witgs-booling-code]: https://github.com/tynrare/witgs-booling/
 [witgs-tanks-h]: #tanks
-[witgs-tanks-link]: https://wit-gamespace-threejs.netlify.app/
+[witgs-tanks-link]: https://witgs-tanks.netlify.app/
 [witgs-tanks-code]: https://github.com/tynrare/wit-gamespace-threejs/
