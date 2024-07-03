@@ -3,7 +3,7 @@
 | name                                       | link                                                  | code                                                          | docs                      |
 | ------------------------------------------ | ----------------------------------------------------- | ------------------------------------------------------------- | ------------------------- |
 | [route (here)][witgs-route-h]              | [witgs-route][witgs-route-link]                       | [tynrare/witgs-route][witgs-route-code]                       |                           |
-| [tanks][witgs-tanks-h]                     | [wit-gamespace-threejs][witgs-tanks-link]             | [tynrare/wit-gamespace-threejs][witgs-tanks-code]             |                           |
+| [tanks][witgs-tanks-h]                     | [wit-gamespace-threejs][witgs-tanks-link]             | [tynrare/wit-gamespace-threejs][witgs-tanks-code]             | [witgs-tanks-docs]        |
 | [boo ling][witgs-booling-h]                | [witgs-booling][witgs-booling-link]                   | [tynrare/witgs-booling][witgs-booling-code]                   |                           |
 | [camera thirdperson][camera-thirdperson-h] | [camera-thirdperson-threejs][camera-thirdperson-link] | [tynrare/camera-thirdperson-threejs][camera-thirdperson-code] | [camera-thirdperson-docs] |
 
@@ -37,4 +37,5 @@
 [witgs-booling-code]: https://github.com/tynrare/witgs-booling/
 [witgs-tanks-h]: #tanks
 [witgs-tanks-link]: https://witgs-tanks.netlify.app/
+[witgs-tanks-docs]: https://witgs-tanks.netlify.app/docs/
 [witgs-tanks-code]: https://github.com/tynrare/wit-gamespace-threejs/tree/dump240703
