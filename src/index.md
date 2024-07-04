@@ -17,6 +17,11 @@
 
 # witgs_threejs
 
+<details>
+    <summary>Play</summary>
+    <iframe src="https://witgs-threejs.netlify.app/" title="gs-threejs"></iframe>
+</details>
+
 # camera-thirdperson
 
 <details>
